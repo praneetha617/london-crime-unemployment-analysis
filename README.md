@@ -1,0 +1,1 @@
+The project investigates crime trends across London boroughs and explores how these patterns relate to unemployment and geographic factors. The analysis was designed around five business questions covering borough-level crime counts, unemployment indicators, GLA constituencies, quarterly crime trends, and common crime types.
