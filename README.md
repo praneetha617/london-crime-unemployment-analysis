@@ -45,3 +45,10 @@ The datasets were joined using `Borough_Code` as the common key.
 4. What are the highest occurring crime types in each quarter and their corresponding unemployment rates?
 5. What are the highest occurring crime types in each borough?
 
+
+
+## dashboard_overview Image
+![Dashboard Screenshot](./dashboard_screenshot.png)
+
+
+
