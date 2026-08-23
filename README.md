@@ -1,4 +1,3 @@
-London Crime and Unemployment Analysis
 Built an end-to-end big-data analytics warehouse integrating London crime, unemployment and geographic datasets using R, HDFS, Hive and HiveQL, with Kimball-style modelling and Tableau reporting.
 1.	153,689 crime records processed
 2.	238,986 analysis-ready rows
@@ -7,8 +6,8 @@ Built an end-to-end big-data analytics warehouse integrating London crime, unemp
 5.	5 analytical HiveQL outputs
 6.	32 London boroughs analysed
 
-
 Project Overview
+
 The project investigates crime trends across London boroughs and explores how these patterns relate to unemployment and geographic factors. The analysis was designed around five business questions covering borough-level crime counts, unemployment indicators, GLA constituencies, quarterly crime trends, and common crime types.
 
 The project follows a full data analytics pipeline:
